@@ -1,19 +1,18 @@
 
-# Students Aplications
-## Short info about myself
- - Name : Inna Vozniak
- - Age  : 29
-## Language 
+# Hi there 👋, I'm Inna 
+
+## I’m beginner web developer
+
+- :muscle: I like to write code 
+- :tada: I love to paint and play tennis
+- :books: I am constantly learning new things
+
+
+## Languages 
  - English
  - Italian
  - Ukrainian 
  - Russian
-## Hobby
- - Drive people crazy
- - Dance when no one sees 💃
- - Sing when no one hears
-## Dreams
- - go to the USA
 
-
-
+ 
+ 
