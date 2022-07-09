@@ -2,7 +2,7 @@
 # Students Aplications
 ## Short info about myself
  - Name : Inna Vozniak
- - Age  : 28
+ - Age  : 29
 ## Language 
  - English
  - Italian
@@ -14,6 +14,6 @@
  - Sing when no one hears
 ## Dreams
  - go to the USA
- - Sleep a lot
- - Buy a pig
+
+
 
