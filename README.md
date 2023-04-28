@@ -14,6 +14,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![Git](https://img.shields.io/badge/-Git-blue)
+![Ionic](https://img.shields.io/badge/-Ionic-blue)
+![Node](https://img.shields.io/badge/-Node.js-blue)
 
 ## My Hobbies
 
