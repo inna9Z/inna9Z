@@ -32,4 +32,5 @@
 - GitHub: [inna9Z](https://github.com/inna9Z)
 - LinkedIn: [Inna Vozniak](https://www.linkedin.com/in/inna-vozniak-14a8a010a/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=inna9Z&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inna9Z&show_icons=true&theme=radical)
